@@ -9,6 +9,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.7.12"
+    "@astrojs/react": "^4.2.7",
+    "@tailwindcss/vite": "^4.1.6",
+    "astro": "^5.7.12",
+    "marked": "^15.0.11",
+    "tailwindcss": "^4.1.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "daisyui": "^5.0.35"
   }
 }
